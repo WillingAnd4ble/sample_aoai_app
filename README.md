@@ -100,7 +100,6 @@ kažkodėl tai nesuveikė.
 
 12. Aplikacijos patikrinimas
 ![](media/image29.png)
-![](media/image30.png)
 
 ## Apibendrinimas:
 
