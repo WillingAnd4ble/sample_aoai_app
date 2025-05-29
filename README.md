@@ -66,18 +66,19 @@ Išsprendžiau „az provider register --namespace Microsoft.Web" eilute.
 3. Paleidimas
 ![](media/image17.png)
 
-3. Startup komandos nustatymas.
+4. Startup komandos nustatymas.
 ![](media/image18.png)
 
-4. SCM išjungimas
+5. SCM išjungimas
 ![](media/image19.png)
 
 
-5. Perkelimas .env į JSON formatą
+6. Perkelimas .env į JSON formatą
 ![](media/image20.png)
-6. .env įkelimas
+7. .env įkelimas
 ![](media/image21.png)
-7.Aplikacijos atnaujinimas
+
+8. Aplikacijos atnaujinimas
 ![](media/image23.png)
 Darant šį žingsnį susiduriau su tokia klaida:
 ![](media/image22.png)
@@ -86,18 +87,18 @@ pabandžiau greitai pakeisti internetą iš Wi-fi į mobilųjį, nes tuo metu
 kai kuriau konfiguraciją naudojau telefono ryšį, tad buvo įtarimas, kad
 problema susijusi su tuo ir tai suveikė.
 ![](media/image24.png)
-8.  Start-up file'o nustatymas
+9.  Start-up file'o nustatymas
 ![](media/image25.png)
-9.  Aplikacijos patikrinimas
+10.  Aplikacijos patikrinimas
 ![](media/image26.png)
 Kuriant konfigūraciją buvau nustatęs, autentifikavimo argumentą, bet
 kažkodėl tai nesuveikė.
 
-10. AUTH_ENABLE atnaujinimas 
+11. AUTH_ENABLE atnaujinimas 
 ![](media/image27.png)
 ![](media/image28.png)
 
-11. Aplikacijos patikrinimas
+12. Aplikacijos patikrinimas
 ![](media/image29.png)
 ![](media/image30.png)
 
