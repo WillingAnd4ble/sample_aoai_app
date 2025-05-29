@@ -21,8 +21,8 @@ išvengti busimų nesutapimų, nes:
 ![](media/image6.png)
 
 5.  Lokalios aplinkos tvarkymas
-![](media/image7.png)
 ![](media/image8.png)
+![](media/image7.png)
 6.  Paleidęs aplikaciją susiduriau su 500 server error
 ![](media/image9.png)
 
@@ -65,18 +65,13 @@ registered to use namespace 'Microsoft.Web'.
 Išsprendžiau „az provider register --namespace Microsoft.Web" eilute.
 
 3\. Paleidimas
+![](media/image17.png)
 
-![A screenshot of a computer AI-generated content may be
-incorrect.](media/image17.png)
+3\. Startup komandos nustatymas.
+![](media/image18.png)
 
-3\. Startup komandos nustatymas.![A screenshot of a computer
-AI-generated content may be
-incorrect.](media/image18.png)
-
-4\. SCM išjungimas![A black rectangular object with white lines
-AI-generated content may be
-incorrect.](media/image19.png){width="6.5in"
-height="1.761111111111111in"}
+4\. SCM išjungimas
+![](media/image19.png)
 
 
 5. Perkelimas .env į JSON formatą
@@ -84,10 +79,9 @@ height="1.761111111111111in"}
 6. .env įkelimas
 ![](media/image21.png)
 7.Aplikacijos atnaujinimas
-
-![](media/image22.png)Darant šį žingsnį susiduriau su tokia
-klaida:
 ![](media/image23.png)
+Darant šį žingsnį susiduriau su tokia klaida:
+![](media/image22.png)
 Nesigilinau stipriai į šią problemą, nes
 pabandžiau greitai pakeisti internetą iš Wi-fi į mobilųjį, nes tuo metu
 kai kuriau konfiguraciją naudojau telefono ryšį, tad buvo įtarimas, kad
@@ -104,9 +98,8 @@ kažkodėl tai nesuveikė.
 ![](media/image27.png)
 ![](media/image28.png)
 
-11. ![](media/image29.png)
-Aplikacijos patikrinimas
-
+11. Aplikacijos patikrinimas
+![](media/image29.png)
 ![](media/image30.png)
 
 ## Apibendrinamas:
