@@ -26,8 +26,7 @@ išvengti busimų nesutapimų, nes:
 6.  Paleidęs aplikaciją susiduriau su 500 server error
 ![](media/image9.png)
 
-Greitai pastebėjau klaidą, kad įterpiau endpointą .env faile į
-„AZURE_OPENAI_RESOURCE="
+Greitai pastebėjau klaidą, kad įterpiau endpointą .env faile į „AZURE_OPENAI_RESOURCE="
 
 7.  Sekanti klaidą susijusi taip pat dėl blogo įterpimo
 ![](media/image11.png)
@@ -58,19 +57,19 @@ iš pavyzdžių tai:
 
 ![](media/image15.png)
 
-![](media/image16.png)
 2. Problema "the subscription is not
 registered to use namespace 'Microsoft.Web'.
+![](media/image16.png)
 
 Išsprendžiau „az provider register --namespace Microsoft.Web" eilute.
 
-3\. Paleidimas
+3. Paleidimas
 ![](media/image17.png)
 
-3\. Startup komandos nustatymas.
+3. Startup komandos nustatymas.
 ![](media/image18.png)
 
-4\. SCM išjungimas
+4. SCM išjungimas
 ![](media/image19.png)
 
 
