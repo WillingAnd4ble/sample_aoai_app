@@ -2,7 +2,7 @@
 
 1.  Iš pradžių klonavau repozitorija lokaliai pas save per git bash.
 
-„ git clone <https://github.com/microsoft/sample-app-aoai-chatGPT.git>"
+„git clone <https://github.com/microsoft/sample-app-aoai-chatGPT.git>"
 
 ![](media/image1.png)
 
@@ -102,7 +102,7 @@ kažkodėl tai nesuveikė.
 ![](media/image29.png)
 ![](media/image30.png)
 
-## Apibendrinamas:
+## Apibendrinimas:
 
 Iš pradžių pabandžiau paleisti aplikaciją lokaliai, kur didžiausia
 problema buvo kvotų apribojimas ir nežinojimas, kad reikia dar sukurti
